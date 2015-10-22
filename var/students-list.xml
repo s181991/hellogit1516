@@ -15,7 +15,15 @@
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
-    </student>	
+    </student>
+    <student>
+        <firstname>Aleksander</firstname>
+        <lastname>Brol</lastname>
+        <email>brol.aleksander@gmail.com</email>
+        <github>BrolA</github>
+        <group>KrDZIs3011Si</group>
+    </student>
+ 	
 </students>
 
 
