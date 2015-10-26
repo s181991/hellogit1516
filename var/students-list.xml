@@ -29,7 +29,14 @@
 	<email>szymon.nn@gmail.com</email>
 	<github>szymonnn</github>
 	<group>KrDZIs3012Si</group>
-    </student> 	
+    </student> 
+    <student>
+        <firstname>Sebastian</firstname>
+        <lastname>Kuœnierz</lastname>
+        <email>kusnierz.sebastian@gmail.com</email>
+        <github>S3bastiaan</github>
+        <group>KrDzIs3011Si</group>
+    </student>	
 </students>
 
 
