@@ -30,6 +30,14 @@
 	<github>szymonnn</github>
 	<group>KrDZIs3012Si</group>
     </student> 	
-</students>
+	
+    <student>
+	<firstname>Paulina</firstname>
+	<lastname>Markowska</lastname>
+	<email>panimarkowska@gmail.com</email>
+	<github>panimarkowska</github>
+	<group>KrDZIs3011Si</group>
+    </student>
+</students>	
 
 
