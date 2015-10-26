@@ -57,7 +57,14 @@
         <github>JustynaKonieczny</github>
         <group>KrDZIs3011Si</group>
     </student>
-</students>
+        <firstname>Pawel</firstname>
+    	<lastname>Kalinowski</lastname>
+    	<email>pawlo1337@gmail.com</email>
+    	<github>pawlo1</github>
+    	<group>KrDZIs3012Si</group>
+    </student>
+</students>	
+
 
 
 
