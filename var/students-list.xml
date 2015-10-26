@@ -9,7 +9,6 @@
         <group>Teacher</group>
     </student>
     <student>
-    <student>
         <firstname>Katarzyna</firstname>
         <lastname>Wójcik</lastname>
         <email>wojcikk@uek.krakow.pl</email>
@@ -31,18 +30,18 @@
         <group>KrDZIs3011Si</group>
     </student>
     <student>
-	<firstname>Szymon</firstname>
-	<lastname>Nitecki</lastname>
-	<email>szymon.nn@gmail.com</email>
-	<github>szymonnn</github>
-	<group>KrDZIs3012Si</group>
+	   <firstname>Szymon</firstname>
+	   <lastname>Nitecki</lastname>
+	   <email>szymon.nn@gmail.com</email>
+	   <github>szymonnn</github>
+	   <group>KrDZIs3012Si</group>
     </student>
-	 <student>
-	<firstname>Natalia</firstname>
-	<lastname>Lewczuk</lastname>
-	<email>n.lewczuk@gmail.com</email>
-	<github>natka1130</github>
-	<group>KrDZIs3011SI</group>
+	<student>
+	   <firstname>Natalia</firstname>
+	   <lastname>Lewczuk</lastname>
+	   <email>n.lewczuk@gmail.com</email>
+	   <github>natka1130</github>
+	   <group>KrDZIs3011SI</group>
     </student>  	
 </students>
 
