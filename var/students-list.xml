@@ -62,9 +62,14 @@
     	<email>pawlo1337@gmail.com</email>
     	<github>pawlo1</github>
     	<group>KrDZIs3012Si</group>
-    </student>
-</students>	
-
-
+    </student> 
+    <student>
+        <firstname>Sebastian</firstname>
+        <lastname>Kusnierz</lastname>
+        <email>kusnierz.sebastian@gmail.com</email>
+        <github>S3bastiaan</github>
+        <group>KrDzIs3011Si</group>
+    </student>	
+</students>
 
 
