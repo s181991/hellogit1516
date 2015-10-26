@@ -50,7 +50,14 @@
     	<github>panimarkowska</github>
     	<group>KrDZIs3011Si</group>
     </student>
-</students>	
+    <student>
+        <firstname>Justyna</firstname>
+        <lastname>Konieczny</lastname>
+        <email>kojustynka@gmail.com</email>
+        <github>JustynaKonieczny</github>
+        <group>KrDZIs3011Si</group>
+    </student>
+</students>
 
 
 
