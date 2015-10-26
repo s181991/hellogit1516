@@ -43,6 +43,14 @@
 	   <github>natka1130</github>
 	   <group>KrDZIs3011SI</group>
     </student>  	
-</students>
+    <student>
+    	<firstname>Paulina</firstname>
+    	<lastname>Markowska</lastname>
+    	<email>panimarkowska@gmail.com</email>
+    	<github>panimarkowska</github>
+    	<group>KrDZIs3011Si</group>
+    </student>
+</students>	
+
 
 
