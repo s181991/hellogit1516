@@ -71,7 +71,7 @@
         <github>S3bastiaan</github>
         <group>KrDzIs3011Si</group>
     </student>
-        <student>
+    <student>
         <firstname>Klaudia</firstname>
         <lastname>Szal</lastname>
         <email>kszal94@gmail.com</email>
@@ -92,15 +92,12 @@
         <github>Butryn</github>
         <group>Student</group>
     </student>
-</students>
-
-<student>
-  <student>
-        <firstname>Katarzyna</firstname>
-        <lastname>Wójcik</lastname>
-        <email>wojcikk@uek.krakow.pl</email>
-        <github>Fiona84</github>
-        <group>Teacher</group>
-    </student>	
+    <student>
+    	<firstname>Piotr</firstname>
+    	<lastname>Siekierski</lastname>
+    	<email>piotr.siekierski.92@gmail.com</email>
+    	<github>siekiera92</github>
+    	<group>KrDzIs3012Si</group>
+    </student>
 </students>
 
