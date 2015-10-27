@@ -77,7 +77,15 @@
         <email>kszal94@gmail.com</email>
         <github>Lenath</github>
         <group>KrDzIs3012Si</group>
-    </student>	
+    </student>
+ <student>
+        <firstname>Lukasz</firstname>
+        <lastname>Uznanski</lastname>
+        <email>lukaszuznanski94@gmail.com</email>
+        <github>lukaszuznanski</github>
+        <group>KrDzIs3012Si</group>
+    </student>
+	
 </students>
 
 
