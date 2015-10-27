@@ -18,4 +18,13 @@
     </student>	
 </students>
 
+<student>
+  <student>
+        <firstname>Katarzyna</firstname>
+        <lastname>Wójcik</lastname>
+        <email>wojcikk@uek.krakow.pl</email>
+        <github>Fiona84</github>
+        <group>Teacher</group>
+    </student>	
+</students>
 
