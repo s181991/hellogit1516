@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <firstname>Krzysztof</firstname>
+        <lastname>Wodziak</lastname>
+        <email>wodziak.krzysztof@ggmail.com</email>
+        <github>uek182105</github>
+        <group>KrDZIs3012Si</group>
+    </student>
 
 <students>
     <student>
