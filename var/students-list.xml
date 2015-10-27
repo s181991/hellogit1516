@@ -78,6 +78,15 @@
         <github>Lenath</github>
         <group>KrDzIs3012Si</group>
     </student>	
+
+	 <student>
+        <firstname>Roksana</firstname>
+        <lastname>Butryn</lastname>
+        <email>r.butryn@op.pl</email>
+        <github>Butryn</github>
+        <group>Student</group>
+    </student>
+
 </students>
 
 
