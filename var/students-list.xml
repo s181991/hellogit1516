@@ -70,7 +70,14 @@
         <email>kusnierz.sebastian@gmail.com</email>
         <github>S3bastiaan</github>
         <group>KrDzIs3011Si</group>
-    </student>	
+    </student>
+    <student>
+	<firstname>Piotr</firstname>
+	<lastname>Siekierski</lastname>
+	<email>piotr.siekierski.92@gmail.com</email>
+	<github>siekiera92</github>
+	<group>KrDzIs3012Si</group>
+    </student>
 </students>
 
 
