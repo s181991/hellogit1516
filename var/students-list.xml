@@ -10,7 +10,7 @@
     </student>
     <student>
         <firstname>Katarzyna</firstname>
-        <lastname>Wójcik</lastname>
+        <lastname>Wojcik</lastname>
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
@@ -77,6 +77,13 @@
         <email>kszal94@gmail.com</email>
         <github>Lenath</github>
         <group>KrDzIs3012Si</group>
+    </student>	
+    <student>
+        <firstname>Aleksandra</firstname>
+        <lastname>Wojdyla</lastname>
+        <email>olcik93@gamil.com</email>
+        <github>owojdyla</github>
+        <group>Student</group>
     </student>	
 </students>
 
