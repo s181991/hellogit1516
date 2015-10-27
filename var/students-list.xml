@@ -16,6 +16,15 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>	
+
+	 <student>
+        <firstname>Roksana</firstname>
+        <lastname>Butryn</lastname>
+        <email>r.butryn@op.pl</email>
+        <github>Butryn</github>
+        <group>Student</group>
+    </student>
+
 </students>
 
 
