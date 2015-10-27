@@ -15,6 +15,12 @@
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
+    </student>
+    <student>
+       <firstname>Anna</firstname>
+       <lastname>Wojtowicz</lastname>
+       <email>anna@wojtowicz.ovh</email>
+       <group>Teacher</email>
     </student>	
 </students>
 
