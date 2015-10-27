@@ -9,13 +9,19 @@
         <group>Teacher</group>
     </student>
     <student>
-    <student>
         <firstname>Katarzyna</firstname>
         <lastname>Wójcik</lastname>
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>	
+    <student>
+	<firstname>Paweł</firstname>
+	<lastname>Tylek</lastname>
+	<email>pawel.tylek@gmail.com</email>
+	<github>s181991</github>
+	<group>Student</group>
+   </student>
 </students>
 
 
