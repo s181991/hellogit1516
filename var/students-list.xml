@@ -83,12 +83,13 @@
         <email>adrian.witek7@gmail.com</email>
         <github>adrianwitek</github>
         <group>KrDzIs3012Si</group>
+    </student>   
 	<student>
        <firstname>Anna</firstname>
        <lastname>Wojtowicz</lastname>
        <email>anna@wojtowicz.ovh</email>
        <github>...</github>
-       <group>...</email>
+       <group>...</group>
     </student>
     <student>
     	<firstname>Duong</firstname>
@@ -139,7 +140,7 @@
         <github>uek182105</github>
         <group>KrDZIs3012Si</group>
     </student>  
-   <student>
+    <student>
         <firstname>Dariusz</firstname>
         <lastname>Pastwa</lastname>
         <email>tanazzu@gmail.com</email>
@@ -147,7 +148,7 @@
         <group>krdzis3012</group>
     </student>
     <student>
-	   <firstname>Kamil</firstname>
+	    <firstname>Kamil</firstname>
         <lastname>Pietrucha</lastname>
         <email>requ@wp.eu</email>
         <github>reqqqu</github>
