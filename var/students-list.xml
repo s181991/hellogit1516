@@ -131,6 +131,13 @@
         <email>wodziak.krzysztof@ggmail.com</email>
         <github>uek182105</github>
         <group>KrDZIs3012Si</group>
+    </student>  
+   <student>
+        <firstname>Dariusz</firstname>
+        <lastname>Pastwa</lastname>
+        <email>tanazzu@gmail.com</email>
+        <github>tanazzu</github>
+        <group>krdzis3012</group>
     </student>
 </students>
 
