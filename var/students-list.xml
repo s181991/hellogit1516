@@ -89,6 +89,13 @@
        <email>anna@wojtowicz.ovh</email>
        <github>...</github>
        <group>...</email>
+    </student>
+    <student>
+    	<firstname>Duong</firstname>
+    	<lastname>Nguyen Tuan</lastname>
+    	<email>tommynt@outlook.com</email>
+    	<github>TommyNT</github>
+    	<group>student</group>
     </student>	
     <student>
         <firstname>Aleksandra</firstname>
