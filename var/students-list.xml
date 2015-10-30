@@ -158,6 +158,12 @@
         <lastname>Olejarz</lastname>
         <email>aolejarz18@gmail.com</email>
         <github>aolejarz</github>
+    </student>
+    <student>
+        <firstname>Maciej</firstname>
+        <lastname>Cwiok</lastname>
+        <email>mackus128@gmail.com</email>
+        <github>mackus</github>
         <group>KrDzIs3012Si</group>
     </student>
 </students>
