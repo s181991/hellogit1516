@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <students>
     <student>
         <firstname>Jakub</firstname>
@@ -10,10 +9,176 @@
     </student>
     <student>
         <firstname>Katarzyna</firstname>
-        <lastname>Wójcik</lastname>
+        <lastname>Wojcik</lastname>
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
+    </student>
+    <student>
+        <firstname>Aleksander</firstname>
+        <lastname>Brol</lastname>
+        <email>brol.aleksander@gmail.com</email>
+        <github>BrolA</github>
+        <group>KrDZIs3011Si</group>
+    </student>
+    <student>
+        <firstname>Anna</firstname>
+        <lastname>Misiaszek</lastname>
+        <email>anna.misiaszek93@gmail.com</email>
+        <github>amisia</github>
+        <group>KrDZIs3011Si</group>
+    </student>
+    <student>
+	   <firstname>Szymon</firstname>
+	   <lastname>Nitecki</lastname>
+	   <email>szymon.nn@gmail.com</email>
+	   <github>szymonnn</github>
+	   <group>KrDZIs3012Si</group>
+    </student>
+	<student>
+	   <firstname>Natalia</firstname>
+	   <lastname>Lewczuk</lastname>
+	   <email>n.lewczuk@gmail.com</email>
+	   <github>natka1130</github>
+	   <group>KrDZIs3011SI</group>
+    </student>  	
+    <student>
+    	<firstname>Paulina</firstname>
+    	<lastname>Markowska</lastname>
+    	<email>panimarkowska@gmail.com</email>
+    	<github>panimarkowska</github>
+    	<group>KrDZIs3011Si</group>
+    </student>
+    <student>
+        <firstname>Justyna</firstname>
+        <lastname>Konieczny</lastname>
+        <email>kojustynka@gmail.com</email>
+        <github>JustynaKonieczny</github>
+        <group>KrDZIs3011Si</group>
+    </student>
+    <student>
+        <firstname>Pawel</firstname>
+    	<lastname>Kalinowski</lastname>
+    	<email>pawlo1337@gmail.com</email>
+    	<github>pawlo1</github>
+    	<group>KrDZIs3012Si</group>
+    </student> 
+    <student>
+        <firstname>Sebastian</firstname>
+        <lastname>Kusnierz</lastname>
+        <email>kusnierz.sebastian@gmail.com</email>
+        <github>S3bastiaan</github>
+        <group>KrDzIs3011Si</group>
+    </student>
+    <student>
+        <firstname>Klaudia</firstname>
+        <lastname>Szal</lastname>
+        <email>kszal94@gmail.com</email>
+        <github>Lenath</github>
+        <group>KrDzIs3012Si</group>
+    </student>
+	<student>
+        <firstname>Adrian</firstname>
+        <lastname>Witek</lastname>
+        <email>adrian.witek7@gmail.com</email>
+        <github>adrianwitek</github>
+        <group>KrDzIs3012Si</group>
+    </student>   
+	<student>
+       <firstname>Anna</firstname>
+       <lastname>Wojtowicz</lastname>
+       <email>anna@wojtowicz.ovh</email>
+       <github>...</github>
+       <group>...</group>
+    </student>
+    <student>
+    	<firstname>Duong</firstname>
+    	<lastname>Nguyen Tuan</lastname>
+    	<email>tommynt@outlook.com</email>
+    	<github>TommyNT</github>
+    	<group>student</group>
+    </student>	
+    <student>
+        <firstname>Aleksandra</firstname>
+        <lastname>Wojdyla</lastname>
+        <email>olcik93@gamil.com</email>
+        <github>owojdyla</github>
+        <group>Student</group>
+    </student>
+	 <student>
+        <firstname>Roksana</firstname>
+        <lastname>Butryn</lastname>
+        <email>r.butryn@op.pl</email>
+        <github>Butryn</github>
+        <group>Student</group>
+    </student>
+    <student>
+    	<firstname>Piotr</firstname>
+    	<lastname>Siekierski</lastname>
+    	<email>piotr.siekierski.92@gmail.com</email>
+    	<github>siekiera92</github>
+    	<group>KrDzIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Anna</firstname>
+        <lastname>Słoma</lastname>
+        <email>annasloma94@gmail.com</email>
+        <github>AnkaSloma</github>
+        <group>KrDzIs3012Si</group>
+    </student>
+    <student>
+		<firstname>Katarzyna</firstname>
+		<lastname>Konopelska </lastname>
+		<email>kasiakonopelska@gmail.com</email>
+		<github>konop93</github>
+		<group>KrDzIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Krzysztof</firstname>
+        <lastname>Wodziak</lastname>
+        <email>wodziak.krzysztof@ggmail.com</email>
+        <github>uek182105</github>
+        <group>KrDZIs3012Si</group>
+    </student>  
+    <student>
+        <firstname>Dariusz</firstname>
+        <lastname>Pastwa</lastname>
+        <email>tanazzu@gmail.com</email>
+        <github>tanazzu</github>
+        <group>krdzis3012</group>
+    </student>
+    <student>
+	    <firstname>Kamil</firstname>
+        <lastname>Pietrucha</lastname>
+        <email>requ@wp.eu</email>
+        <github>reqqqu</github>
+    </student>
+    <student>
+        <firstname>Arkadiusz</firstname>
+        <lastname>Olejarz</lastname>
+        <email>aolejarz18@gmail.com</email>
+        <github>aolejarz</github>
+    </student>
+    <student>
+        <firstname>Maciej</firstname>
+        <lastname>Cwiok</lastname>
+        <email>mackus128@gmail.com</email>
+        <github>mackus</github>
+        <group>KrDzIs3012Si</group>
+    </student>
+	<student>
+        <firstname>Dominik</firstname>
+        <lastname>Zmijewski</lastname>
+        <email>bzmijewski.dominik@wp.pl</email>
+        <github>zmijewskidominik</github>
+        <group>KrDZIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Dawid</firstname>
+        <lastname>Walski</lastname>
+        <email>waluus9@gmail.com</email>
+        <github>waluus9</github>
+        <group>KrDzIs3012Si</group>
     </student>	
     <student>
 	<firstname>Paweł</firstname>
@@ -23,5 +188,4 @@
 	<group>Student</group>
    </student>
 </students>
-
 
