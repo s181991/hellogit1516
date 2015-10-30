@@ -121,7 +121,7 @@
     </student>
     <student>
         <firstname>Anna</firstname>
-        <lastname>Słoma</lastname>
+        <lastname>SÅ‚oma</lastname>
         <email>annasloma94@gmail.com</email>
         <github>AnkaSloma</github>
         <group>KrDzIs3012Si</group>
@@ -185,6 +185,12 @@
         <lastname>Hamera</lastname>
         <email>hamerakinga@interia.pl</email>
         <github>Kinia180312</github>
+    </student>
+    <student>
+        <firstname>Aleksandra</firstname>
+        <lastname>Kołodziejczyk</lastname>
+        <email>a.kolodziejczyk94@gmail.com</email>
+        <github>Kokox16</github>
         <group>KrDzIs3012Si</group>
     </student>
 </students>
