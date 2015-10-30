@@ -200,6 +200,13 @@
         <github>qubala</github>
         <group>Teacher</group>
     </student>	
+    <student>
+        <firstname>Lukasz</firstname>
+        <lastname>Uznanski</lastname>
+        <email>lukaszuznanski94@gmail.com</email>
+        <github>lukaszuznanski</github>
+        <group>KrDzIs3012Si</group>
+    </student>
 </students>
 
 
