@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
-        <firstname>Krzysztof</firstname>
-        <lastname>Wodziak</lastname>
-        <email>wodziak.krzysztof@ggmail.com</email>
-        <github>uek182105</github>
-        <group>KrDZIs3012Si</group>
-    </student>
-
-<students>
-    <student>
         <firstname>Jakub</firstname>
         <lastname>Kanclerz</lastname>
         <email>jakub.kanclerz@gmail.com</email>
@@ -86,12 +77,18 @@
         <github>Lenath</github>
         <group>KrDzIs3012Si</group>
     </student>
-<student>
+	<student>
         <firstname>Adrian</firstname>
         <lastname>Witek</lastname>
         <email>adrian.witek7@gmail.com</email>
         <github>adrianwitek</github>
         <group>KrDzIs3012Si</group>
+	<student>
+       <firstname>Anna</firstname>
+       <lastname>Wojtowicz</lastname>
+       <email>anna@wojtowicz.ovh</email>
+       <github>...</github>
+       <group>...</email>
     </student>	
     <student>
         <firstname>Aleksandra</firstname>
@@ -122,11 +119,18 @@
         <group>KrDzIs3012Si</group>
     </student>
     <student>
-	<firstname>Katarzyna</firstname>
-	<lastname>Konopelska </lastname>
-	<email>kasiakonopelska@gmail.com</email>
-	<github>konop93</github>
-	<group>KrDzIs3012Si</group>
+		<firstname>Katarzyna</firstname>
+		<lastname>Konopelska </lastname>
+		<email>kasiakonopelska@gmail.com</email>
+		<github>konop93</github>
+		<group>KrDzIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Krzysztof</firstname>
+        <lastname>Wodziak</lastname>
+        <email>wodziak.krzysztof@ggmail.com</email>
+        <github>uek182105</github>
+        <group>KrDZIs3012Si</group>
     </student>
 </students>
 
