@@ -152,6 +152,12 @@
         <lastname>Pietrucha</lastname>
         <email>requ@wp.eu</email>
         <github>reqqqu</github>
+    </student>
+    <student>
+        <firstname>Arkadiusz</firstname>
+        <lastname>Olejarz</lastname>
+        <email>aolejarz18@gmail.com</email>
+        <github>aolejarz</github>
         <group>KrDzIs3012Si</group>
     </student>
 </students>
