@@ -208,5 +208,12 @@
         <group>KrDzIs3012Si</group>
     </student>
 </students>
-
+   <student>
+       <firstname>Rafal</firstname>
+       <lastname>Kopijka</lastname>
+       <email>rapollo2@gmail.com</email>
+       <github>rafatq</github>
+       <group>KrZZIs3011Si</group>
+   </student>
+</students>
 
