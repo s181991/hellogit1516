@@ -206,6 +206,14 @@
         <email>lukaszuznanski94@gmail.com</email>
         <github>lukaszuznanski</github>
         <group>KrDzIs3012Si</group>
+       
+    </student>
+      <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Maciaszek</lastname>
+        <email>mateuszmaciaszek1993@gmail.com</email>
+        <github>MateuszMaciaszek</github>
+        <group>KrZZIs3011Si</group>
     </student>
 </students>
 
