@@ -229,7 +229,6 @@
         <github>zyzioziom</github>
         <group>KrZZIs3011Si</group>
     </student>
-</students>    
 <student>
         <firstname>Kornel</firstname>
         <lastname>Kawulok</lastname>
@@ -237,5 +236,13 @@
         <github>kornelkawulok</github>
         <group>KrZZIs3011Si</group>
     </student>
+    
+	<student>
+        <firstname>Dominik</firstname>
+        <lastname>Adamski</lastname>
+        <email>dominik.adamski@interia.pl</email>
+        <github>domis14</github>
+        <group>KrDZIs3011Si</group>
+        </student>
 </students>
 
