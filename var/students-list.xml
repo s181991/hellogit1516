@@ -242,6 +242,13 @@
     	<email>maciejbodys@poczta.fm</email>
     	<github>maciejbodys</github>
     	<group>KrDZIs3011Si</group>
+    </student>  
+	<student>
+        <firstname>Dominik</firstname>
+        <lastname>Adamski</lastname>
+        <email>dominik.adamski@interia.pl</email>
+        <github>domis14</github>
+        <group>KrDZIs3011Si</group>
     </student>
 </students>
 
